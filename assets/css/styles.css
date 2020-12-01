@@ -53,7 +53,7 @@ html {
   scroll-behavior: smooth;
 }
 
-/* variables dark theme*/
+/* variables dark theme */
 body.dark-theme {
   --title-color: #f1f3f2;
   --text-color: #c7d1cc;
